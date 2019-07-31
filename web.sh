@@ -1,0 +1,43 @@
+#!bin/bash
+#webdav
+
+figlet WEB
+echo "========================="
+echo "Tolls By Tn.Kuuhaku"
+echo "Team:Society Cyber Squad"
+echo "Thanks to : All Freinds"
+echo "========================="
+echo ""
+read -p "Masukan code web (scs): " sripct;
+sleep 4
+echo "Tunggu......"
+echo "http://admats.concerts.com"
+echo "http://my.smser.eu"
+echo "http://www.lawrenceting.com"
+echo "http://dike.dpt.go.th"
+echo "http://www.elcsfj.gov.cn"
+echo "http://documents.co.st-lucie.fl.us"
+echo "http://www.ybsds.gov.cn"
+echo "http://rsj.xxz.gov.cn"
+echo "http://www.xzll.gov.cn"
+echo "http://www.xmfg.gov.cn"
+echo "http://zzx.wlcbsgs.gov.cn"
+echo "http://www.librogondwana.com.ar"
+echo "http://www.ingacarrasco.com.ar"
+echo "http://www.salsadella.com.ar"
+echo "http://www.bgmgroup.cn"
+echo "http://ssc.rrp.kr"
+echo "http://www.bonweshop.cn"
+echo "http://www.entreculturas.pt"
+echo "http://www.51lvyo.cn"
+echo "http://www.tishineng.cn"
+echo "http://lib.zcu.edu.cn"
+echo "http://www.r-fashion.com"
+echo "http://www.shbhgy.com"
+echo "http://xcb.nenu.edu.cn"
+echo "http://www.xiajiashan.com"
+echo "http://www.aiboshop.com"
+echo "http://vernicefrescateatro.it"
+echo "http://scuolamediaserino.it"
+sleep 4
+echo "Thank udh datang buriq......"
